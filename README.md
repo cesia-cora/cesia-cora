@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Cesia, 26 years old web developer from Argentina 👋
 
-<!--
-**cesia-cora/cesia-cora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My skills:
+- 📝 HTML, CSS 
+- 💻 JavaScript, Node.js, Express
+- 🐍 Python, Django
+- 💾 SQLite, MySQL, Posgresql
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on my portfolio and three web apps
+- 🌱 I’m currently learning an associate degree on software development, non-relational databases and React
+- 👯 I’m looking to collaborate on anything that relates with my current knowledge
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cesia-cora)
+- Dog or cats?: 🐈
+
+<!-- 🤔 I’m looking for help with
+💬 Ask me about ...
+⚡ Fun fact: 
 -->
