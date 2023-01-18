@@ -3,7 +3,7 @@
 My skills:
 - 📝 HTML, CSS 
 - 💻 JavaScript, Node.js, Express
-- 🐍 Python, Django
+- 🐍 Python, Django, FastAPI
 - 💾 SQLite, MySQL, Posgresql
 
 <br>
