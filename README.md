@@ -46,6 +46,10 @@
 
 Dog or cats?: 🐈
 
+Stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesia-cora&layout=donut&theme=onedark&langs_count=8)](https://github.com/cesia-cora/github-readme-stats)
+
 <!-- 🤔 I’m looking for help with
 💬 Ask me about ...
 ⚡ Fun fact: 
