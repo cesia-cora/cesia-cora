@@ -36,22 +36,21 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
-💻 I’m currently working on my portfolio and building web app projects
-
 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesia-cora)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cesia_c)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/501522847278170132)
 
-Dog or cats?: 🐈
-
 <div align="center">
-  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesia-cora&layout=donut&theme=onedark&langs_count=8&hide=jupyter%20notebook"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesia-cora&layout=donut&theme=onedark&langs_count=8&hide=jupyter%20notebook"/>
+  <br>
+  <img width="300" src="https://api.roadmap.sh/v1-badge/tall/661d90da339f60365400a069?variant=dark&roadmaps=python%2Cdata-analyst%2Csql%2Cnodejs"/>
 </div>
 
 <!-- 🤔 I’m looking for help with
 💬 Ask me about ...
 ⚡ Fun fact: 
 - 👯 I’m looking to collaborate on anything that relates with my current knowledge
+💻 I’m currently working on my portfolio and building web app projects
 -->
