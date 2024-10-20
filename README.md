@@ -52,7 +52,6 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/501522847278170132)
 
 <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesia-cora&layout=donut&theme=onedark&langs_count=8&hide=jupyter%20notebook"/>
-<img width="250" src="https://roadmap.sh/card/tall/661d90da339f60365400a069?variant=dark&roadmaps=python%2Csql%2Cbackend%2Cdatastructures-and-algorithms"/>
 
 <!-- 🤔 I’m looking for help with
 💬 Ask me about ...
